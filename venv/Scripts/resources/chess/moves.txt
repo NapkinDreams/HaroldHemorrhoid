@@ -1,0 +1,17 @@
+66. Kc1 Kxf4 67. Kb2 Ke3 68. Na5 Be8 69. c5 f4 70. c6 Bxc6
+71. Nxc6 f3 72. Ne5 f2, White resigns.
+&&
+30. a4 g5 31. a5 Kg7 32. Ba4 Kg6 33. Bd1 Bd5 34. Bc2+ Kf6
+35. Bc7 Ke6 36. Bh7 Bf3 37. Kh2 Kd5 38. Bc2 Be4 39. Bd1 Kd4 40.
+Be2 Bd3 41. Bb6+ Kd5 42. Bd1 f5 43. Kg3 Ke5 44. Bc5 Kf6 45. Bh5
+f4+ 46. Kh2
+&&
+43. Bg5 Nb6+ 44. Ke5 Nc4+ 45. Kf6 Na3 46. Kg7, Black
+resigns.
+&&
+44. Bxd3 Kc7 45. Bf1 Kd6, White resigns.
+&&
+50. fxe6 Rg8 51. e7 Re8 52. Nf5 Bc6 53. Nd6 Rg8 54. e8(Q) Bxe8 55.
+Nxe8 Rxg3 56. Nf6, Black Resigns.
+&&
+40. Rxa5 Rg1+ 41. Kd2 Rg2, and Black resigns.

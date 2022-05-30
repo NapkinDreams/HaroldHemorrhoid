@@ -1,0 +1,33 @@
+If2. Kb1 Ra8! 3. Qa3 Qd4!. This is the point — the variation shows the
+strength of the queen-and-bishop battery when it is aimed at the main
+target, the king. Now after 4. Qc3 Qxc3 5. bxc3 Bxc3, Black wins the
+rook.
+&&
+White cannot capture the pawn on d4 because of 21. ... Ba4, followed by
+... c5.
+&&
+danger! The best defense is 23…a5 24 a3
+(Black should hold after 24 xd7 xd7 25 bxa5 bxa5 26 c5 dxc5 27 xc5 a4)24…f5
+and it’s hard for White to make progress. Black should never allow c5 without 
+first forcing White to make the concession of exchanging the Bishop for the Knight.
+&&
+White tries to deflect Black from his plans, because otherwise he can’t
+stop the invasion of Black’s rook into his camp. After 46. Ra3 Qb2, Black
+wins.
+&&
+Can Black activate his light-squared bishop? Not by 11. ... c5?, as 12. b4
+cxb4 13. axb4 Qxb4 14. c5 traps Black’s queen.
+&&
+Black’s best defense here was 28. ... c5. Still, after 29. Rxc5 Rxc5 30.
+Rxc5 Qxa4 31. Qxa4 Bxa4 32. Ra5 and 33. Ra5xa7, Black is more likely
+to lose than to draw. Not only is he a pawn down, but most important, with
+rooks on the board, Black’s king remains very vulnerable.
+&&
+This move loses immediately, but even the stronger 35. ... Kg7 does not
+save Black. For example: 36. Rxd1 Rxd1 37. Rd4 Qf1 38. Rxd1 Qxd1 39.
+Qg5 Qd7 40. Qf6+ Kg8 41. Be3 Kh7 42. h4, with the threat of Bh6.
+&&
+White seeks to exchange his two weak pawns for the strong pawn on c5.
+&&
+White gives up a pawn in order to activate the knight. Black, however, is
+not required to rush to capture it.

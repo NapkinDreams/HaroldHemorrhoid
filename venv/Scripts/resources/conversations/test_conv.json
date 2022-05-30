@@ -1,0 +1,34 @@
+{
+  "1": {
+    "question": "McDonald's tastes so good when you're shitfaced.",
+    "answer": "Yes, McDonald's sure tastes good when drunk."
+  },
+  "children": [
+    {
+      "2a": {
+        "question": "I don't eat it very often though... Must have been a year, since I last had a meal there.",
+        "answer": "Ah yes, definitely. Same here, same here."
+      },
+      "children": [
+        {
+          "3a": {
+            "question": "question 3a",
+            "answer": "answer 3a"
+          }
+        },
+        {
+          "3b": {
+            "question": "question 3b",
+            "answer": "answer 3b"
+          }
+        }
+      ]
+    },
+    {
+      "2b": {
+        "question": "question 2b",
+        "answer": "answer 2b"
+      }
+    }
+  ]
+}
